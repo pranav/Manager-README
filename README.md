@@ -2,7 +2,7 @@
 This doc is to let you know how I work and what you can expect from me. 
 
 ## My Role
-I am a Technical Lead. I am here to make sure you are happy, productive, grow, and watch Pacific Rim at least once a year. I will make sure whatever you work on aligns with our team’s mission.
+I am a Technical Lead and am here to make sure you are happy, productive, grow, and watch Pacific Rim at least once a year. I will make sure whatever you work on aligns with our team’s mission.
 
 ## What do I value most
 I value getting shit done. I like when you see a problem and immediately try to fix it.
